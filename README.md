@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FarisTurki
+- 👋 Hi, I’m @FaresTurki
 - 👀 I’m interested in Websites devolepment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
