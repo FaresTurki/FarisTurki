@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarisTurki
-- 👀 I’m interested in Websites devolepment
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Flutter apps devolepment
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alofaris919@gmail.com
 
