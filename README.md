@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FarisTurki
+- 👋 Hi, I’m @FaresTurki
 - 👀 I’m interested in Flutter apps devolepment
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on ...
